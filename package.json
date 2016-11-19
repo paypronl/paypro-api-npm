@@ -1,0 +1,18 @@
+{
+  "name": "paypro",
+  "version": "1.0.0",
+  "description": "PayPro API module",
+  "main": "paypro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paypro",
+    "payments",
+    "api"
+  ],
+  "author": "Albertjan",
+  "license": "ISC",
+  "dependencies" :
+    { "request" : "2.79.0" }
+}
