@@ -9,7 +9,7 @@ A small library that helps you use PayPro's API functionalities.
 
 ## Usage
 
-  See examples.js
+  See example.js
 
 ## Documentation
 
