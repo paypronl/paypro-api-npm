@@ -1,5 +1,5 @@
 {
-  "name": "paypro",
+  "name": "paypro-api",
   "version": "1.0.0",
   "description": "PayPro API module",
   "main": "paypro.js",
