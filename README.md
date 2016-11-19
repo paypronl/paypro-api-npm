@@ -10,3 +10,7 @@ A small library that helps you use PayPro's API functionalities.
 ## Usage
 
   See examples.js
+
+## Documentation
+
+  https://paypro.nl/api
