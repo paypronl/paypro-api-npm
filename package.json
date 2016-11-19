@@ -12,7 +12,7 @@
     "api"
   ],
   "author": "PayPro BV",
-  "homepage": "https://www.paypro.nl/api"
+  "homepage": "https://www.paypro.nl/api",
   "license": "ISC",
   "dependencies": { "request" : "2.79.0" },
   "repository": { "type": "git", "url": "https://github.com/paypronl/paypro-api-npm.git" }
