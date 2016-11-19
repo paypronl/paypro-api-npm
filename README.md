@@ -1,7 +1,7 @@
 PayPro API for Node JS
 =========
 
-A small library that helps you using the PayPro API functionalities.
+A small library that helps you use PayPro's API functionalities.
 
 ## Installation
 
