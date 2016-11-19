@@ -1,6 +1,6 @@
 {
   "name": "paypro-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PayPro API module",
   "main": "paypro.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "payments",
     "api"
   ],
-  "author": "Albertjan",
+  "author": "PayPro BV",
+  "homepage": "https://www.paypro.nl/api"
   "license": "ISC",
   "dependencies": { "request" : "2.79.0" },
   "repository": { "type": "git", "url": "https://github.com/paypronl/paypro-api-npm.git" }
