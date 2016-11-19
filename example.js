@@ -1,4 +1,4 @@
-paypro = require('./paypro.js');
+paypro = require('paypro-api');
 api_key = 'YOUR_API_KEY';
 command = 'list';
 params = {'list_type': 'sales'};
